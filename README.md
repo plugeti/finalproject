@@ -39,11 +39,11 @@ penguin_game/
 
 2.`pygame` 설치:
 
-'''pip install pygame'''
+pip install pygame
 
 3.실행:
 
-'''python penguin_game.py'''
+python penguin_game.py
 
 ---
 
