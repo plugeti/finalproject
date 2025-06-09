@@ -1,20 +1,29 @@
-# 수학과 프로그래밍 기말 프로젝트
-# Penguin Ice Adventure
+# 🐧 Penguin Ice Adventure (Final v2)
 
-파이썬으로 만든 펭귄이 전진하는 게임입니다.
-난이도 선택, 점프 기능, 체력 시스템, 레벨업, 최고 점수 기능까지 구현된 최종 버전입니다.
+🎮 파이썬으로 만든 전진형 펭귄 러너게임!  
+로비 → 난이도 선택 → 게임 → 죽으면 로비 복귀 → 반복 플레이 가능  
+점프, 체력, 레벨업, 최고 점수 기능까지 완성된 최종 v2 버전입니다.
 
-기능
-메인 메뉴 (로비)  
-난이도 선택 (Easy / Normal / Hard)  
-점프 기능 (스페이스바)  
-체력(HP) 시스템
-레벨업 (속도 증가)  
-최고 점수 기록  
-생선 아이템 (점수 +5)  
-게임 오버 시 로비로 자동 복귀
+---
 
-조작법
+## 📋 Features
+
+✅ 메인 메뉴 (로비)  
+✅ 난이도 선택 (Easy / Normal / Hard)  
+✅ 점프 기능 (스페이스바)  
+✅ 체력(HP) 시스템 (3개)  
+✅ 레벨업 (속도 증가)  
+✅ 최고 점수 기록  
+✅ 생선 아이템 (점수 +5)  
+✅ 게임 오버 시 로비로 자동 복귀  
+✅ 무한 반복 플레이 가능  
+
+---
+
+## 🎮 Controls (조작법)
+
+| Key | Action |
+|-----|--------|
 | 1   | Start Game (로비 메뉴) |
 | 2   | Quit (로비 메뉴) |
 | 1/2/3 | 난이도 선택 (Easy/Normal/Hard) |
@@ -22,19 +31,31 @@
 | SPACE | 점프 |
 | ESC / 창 닫기 | 종료 |
 
-Folder Structure
-finalproject/
+---
+
+## 📂 Folder Structure
+
+penguin_game/
 ├── penguin_game.py
 ├── README.md
 └── assets/
-    ├── penguin.png
-    ├── snow_bg.png
-    ├── rock.png
-    ├── fish.png
+├── penguin.png
+├── snow_bg.png
+├── rock.png
+├── fish.png
 
-How to Run
-1.파이썬 설치 (Python 3.8 이상 권장)  
-2.`pygame` 설치:
+---
+
+## 🚀 How to Run
+
+1️⃣ 파이썬 설치 (Python 3.8 이상 권장)  
+2️⃣ `pygame` 설치:
+
+```bash
 pip install pygame
-3.실행
+3️⃣ 실행:
+
+bash
+복사
+편집
 python penguin_game.py
