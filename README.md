@@ -21,15 +21,31 @@
 ---
 
 ## 📂 Folder Structure
-
-```penguin_game/
+penguin_game/
 ├── penguin_game.py
 ├── README.md
 └── assets/
-  ├── penguin.png
-  ├── snow_bg.png
-  ├── rock.png
-  ├── fish.png```
+├── penguin.png
+├── snow_bg.png
+├── rock.png
+├── fish.png
+
+
+---
+
+## 🚀 How to Run
+
+1️⃣ 파이썬 설치 (Python 3.8 이상 권장)
+
+2️⃣ `pygame` 설치:
+
+pip install pygame
+
+3️⃣ 실행:
+
+python penguin_game.py
+
+
 
 ---
 
