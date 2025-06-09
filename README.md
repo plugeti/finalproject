@@ -29,7 +29,7 @@
   ├── penguin.png
   ├── snow_bg.png
   ├── rock.png
-  ├── fish.png
+  ├── fish.png```
 
 ---
 
