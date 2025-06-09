@@ -34,7 +34,6 @@
 ---
 
 ## 📂 Folder Structure
-
 penguin_game/
 ├── penguin_game.py
 ├── README.md
