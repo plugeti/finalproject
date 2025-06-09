@@ -38,9 +38,11 @@ penguin_game/
 1.파이썬 설치 (Python 3.8 이상 권장)
 
 2.`pygame` 설치:
+
 '''pip install pygame'''
 
 3.실행:
+
 '''python penguin_game.py'''
 
 ---
