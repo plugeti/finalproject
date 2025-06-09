@@ -20,6 +20,44 @@
 
 ---
 
+## 📂 Folder Structure
+
+penguin_game/
+├── penguin_game.py
+├── README.md
+└── assets/
+├── penguin.png
+├── snow_bg.png
+├── rock.png
+├── fish.png
+
+yaml
+복사
+편집
+
+---
+
+## 🚀 How to Run
+
+1️⃣ 파이썬 설치 (Python 3.8 이상 권장)
+
+2️⃣ `pygame` 설치:
+
+pip install pygame
+
+복사
+편집
+
+3️⃣ 실행:
+
+python penguin_game.py
+
+yaml
+복사
+편집
+
+---
+
 ## 🎮 Controls (조작법)
 
 | Key | Action |
@@ -33,22 +71,20 @@
 
 ---
 
-## 📂 Folder Structure
-'''penguin_game/
-├── penguin_game.py
-├── README.md
-└── assets/
-    ├── penguin.png
-    ├── snow_bg.png
-    ├── rock.png
-    ├── fish.png'''
+## ✅ TODO / Improvements (선택)
+
+- [ ] Game Over 화면 추가 (별도 표시)
+- [ ] 효과음 / BGM 추가
+- [ ] 스코어 파일 저장 기능 (txt 파일 저장)
+- [ ] 펭귄 점프 애니메이션 추가
 
 ---
 
-## 🚀 How to Run
+## 💻 Author
 
-1️⃣ 파이썬 설치 (Python 3.8 이상 권장)  
-2️⃣ `pygame` 설치:
-pip install pygame
-3️⃣ 실행:
-python penguin_game.py
+- 제작: **(당신 이름)**  
+- 프로젝트: **수학과 프로그래밍 기말고사 과제용**
+
+---
+
+즐겁게 플레이하세요! 🐧❄️🚀
