@@ -33,16 +33,7 @@
 
 ---
 
-## 📂 Folder Structure
-
-penguin_game/
-├── penguin_game.py
-├── README.md
-└── assets/
-├── penguin.png
-├── snow_bg.png
-├── rock.png
-├── fish.png
+<pre> ``` ## 📂 Folder Structure penguin_game/ ├── penguin_game.py ├── README.md └── assets/ ├── penguin.png ├── snow_bg.png ├── rock.png ├── fish.png ``` </pre>
 
 ---
 
